@@ -133,7 +133,7 @@ vagrantAirBnB_clone$./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
-========================================
+========================================a
 EOF  all  create  destroy  help  quit  show  update
 
 (hbnb) all MyModel
@@ -163,3 +163,5 @@ Third part of Airbnb : Elekwachi Michael
 Public Domain. No copy write protection. 
 
 #addinf new methods in filestorage and db storage to count the objects and retrieve them
+
+added statys on api brach
