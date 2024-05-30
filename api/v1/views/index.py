@@ -13,6 +13,6 @@ def get_status():
     resp = jsonify(data)
     resp.status_code =200
 
-    retrun resp
+    return resp
 
 
